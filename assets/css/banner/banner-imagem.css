@@ -1,0 +1,5 @@
+.banner__imagem
+{
+	height: calc(100vh - 72px); /* Desconsiderar a altura do header */
+	width: 100%;
+}
